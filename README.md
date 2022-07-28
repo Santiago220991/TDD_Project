@@ -1,85 +1,56 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Morse Decoder
+# Project Name
 
-> During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+> Description the project.
+
 
 ## Built With
 
-- Ruby
+- Major languages
+- Frameworks
+- Technologies used
 
-### Getting Started
+## Live Demo (if available)
 
-To get a local copy up and running follow these simple steps:
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Open your terminal and navigate to the folder you would like to save the project.
-
 ### Setup
-
-Type these commands into the terminal:
-
-```
-git clone https://github.com/Santiago220991/Morse_Decoder.git
-cd project-name
-```
 
 ### Install
 
-Type this command into the terminal:
-
-```
-npm install
-```
-
-### Build
-
-Type these commands into the terminal:
-
-```
-npm run build
-```
-
-- Open `build/index.html` in your web browser.
-
-### Run dev server
-
-Type these commands into the terminal:
-
-```
-npm run start
-```
-
-- Your web browser will open on [http://localhost:3000](http://localhost:3000)
+### Usage
 
 ### Run tests
 
-Type this command into the terminal:
-
-```
-npm run test
-```
-
 ### Deployment
 
-```
-npm run deploy
-```
+
 
 ## Authors
 
-👤 **Santiago**
+👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Santiago220991)
-- Twitter: [@twitterhandle](https://twitter.com/SanCardenas10)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandersantiagocardenas/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Roberto A. Baños Alvarez**
+👤 **Ronald Skinner**
 
-- GitHub: [@rbanos-mv](https://github.com/rbanos-mv)
-- Twitter: [@RobertoBanosMV](https://twitter.com/RobertoBanosMV)
-- LinkedIn: [Roberto A Baños Alvarez](https://linkedin.com/in/roberto-a-baños-alvarez-500766234)
+- GitHub: [@rskinnerc](https://github.com/rskinnerc)
+- Twitter: [@XSkinner](https://twitter.com/XSkinner)
+- LinkedIn: [Ronald Skinner Cardenas](https://www.linkedin.com/in/rskinnerc/)
 
 ## 🤝 Contributing
 
@@ -93,7 +64,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [Microverse](https://www.microverse.org/) for the motivation.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
