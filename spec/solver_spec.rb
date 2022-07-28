@@ -54,5 +54,41 @@ describe 'Solver factorial method' do
         end
     end
 
+    context 'Solver fizzbuzz method' do
+        it ("solver class objects should be an instance of Solver")do
+        solver=Solver.new
+        expect(solver).to be_instance_of(Solver)
+        end
+    
+        it ("solver class objects should have a method fizzbuzz")do
+        solver=Solver.new
+        expect(solver).to respond_to(:fizzbuzz)
+        end
+    
+        it ("When n is divisible by 3, return ""fizz")do
+        solver=Solver.new
+        n=18
+        expect(solver.fizzbuzz(n)).to eq("fizz")
+        end
+    
+        it ("When n is divisible by 5, return ""buzz")do
+        solver=Solver.new
+        n=10
+        expect(solver.fizzbuzz(n)).to eq("buzz")
+        end
+    
+        it ("When n is not divisible by 3 and 5, return N") do
+        solver=Solver.new
+        n=7
+        expect(solver.fizzbuzz(n)).to eq("7")
+        end
+    
+        it ("When n is divisible by 3 and 5, return ""fizzbuzz") do
+        solver=Solver.new
+        n=15
+        expect(solver.fizzbuzz(n)).to eq("fizzbuzz")
+        end
+    end
+    
 
 end
