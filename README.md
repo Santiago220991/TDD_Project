@@ -1,19 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TDD Project
 
-> Description the project.
-
+> In this project you will implement a class with some methods, but you will do it by doing test-driven development (TDD). 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Rspec
 
 
 ## Getting Started
@@ -26,25 +20,31 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Ruby
+- Rspec
+
 ### Setup
+
+- git clone https://github.com/Santiago220991/TDD_Project.git
+- cd TDD_Project
 
 ### Install
 
-### Usage
+- bundle install
 
 ### Run tests
 
-### Deployment
-
+- rspec
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Santiago**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Santiago220991) 
+- Twitter: [@twitterhandle](https://twitter.com/SanCardenas10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandersantiagocardenas/)
+
 
 👤 **Ronald Skinner**
 
@@ -64,9 +64,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original idea by Microverse
 
 ## 📝 License
 
