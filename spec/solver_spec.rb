@@ -37,4 +37,22 @@ describe 'Solver factorial method' do
     expect{solver.factorial(number)}.to raise_error("Number should be positive") 
     end
 
+    context 'the solver class should have functionality to reverse an string' do
+        it "solver class objects should have a method reverse" do
+        solver=Solver.new
+        expect(solver).to respond_to(:reverse)
+        end
+
+        it 'should receive a string and return the reversed string' do
+            solver = Solver.new
+            expect(solver.reverse('hello')).to eq 'olleh'
+        end
+
+        it 'should return an empty string if an empty string is passed' do
+            solver = Solver.new
+            expect(solver.reverse('')).to eq ''
+        end
+    end
+
+
 end
