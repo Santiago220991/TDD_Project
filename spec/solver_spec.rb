@@ -16,6 +16,11 @@ describe 'Solver factorial method' do
     expect(solver.factorial(5)).to be(120)
     end
 
+    it ("Factorial(8) method should return 40320 ")do
+    solver=Solver.new
+    expect(solver.factorial(8)).to be(40320)
+    end
+
     it ("Factorial(0) method should return 1")do
     solver=Solver.new
     expect(solver.factorial(0)).to be(1)
