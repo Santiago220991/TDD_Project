@@ -7,4 +7,8 @@ class Solver
         raise "Number should be positive"
         end
     end
+
+    def reverse(string)
+        string.reverse
+    end
 end
